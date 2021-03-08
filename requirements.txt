@@ -1,1 +1,8 @@
-requirements.txt
+numpy==1.15.0
+pandas==0.23.4
+streamlit==0.60.0
+xlrd==1.2.0
+yfinance
+seaborn
+matplotlib
+sklearn
