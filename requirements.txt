@@ -3,7 +3,4 @@ pandas==0.24
 streamlit==0.78.0
 xlrd==1.2.0
 tornado==6.1
-yfinance
-seaborn
-matplotlib
-sklearn
+
